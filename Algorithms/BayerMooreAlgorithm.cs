@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-// https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/
+
 namespace PatternMatching.Algorithms
 {
     class BayerMooreAlgorithm : Algorithm

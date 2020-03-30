@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-// https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/?ref=lbp
 namespace PatternMatching.Algorithms
 {
     class KMPAlgorithm : Algorithm
